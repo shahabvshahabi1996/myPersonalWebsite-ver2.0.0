@@ -174,3 +174,10 @@ body{
 .img{
     margin : 0 auto 0;
 }
+.namelink{
+    text-align: center;
+}
+.icon{
+    vertical-align: middle;
+    margin-left:3px;
+}
